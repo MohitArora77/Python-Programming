@@ -1,0 +1,4 @@
+std_name,rollno,phno,loc
+ABC,45,9878767656,Delhi
+FGH,46,9878675443,Noida
+ABC,45,9786576434,Indrapuram
